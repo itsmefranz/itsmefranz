@@ -1,6 +1,7 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&pause=1000&color=F7A0DB&center=true&vCenter=true&width=435&lines=Hi!+I'm+Daniella+Francine+P.+Velasquez+" alt="Typing SVG" /></a>
 
+ <img src="https://25.media.tumblr.com/f247de4c8fad6aba7365b25202cb141f/tumblr_mfavz7AT331rgpyeqo1_250.gif" width="56" height="56" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=34&pause=1000&color=F7A0DB&center=true&vCenter=true&width=435&lines=Hi!+I'm+Daniella+Francine+P.+Velasquez+" alt="Typing SVG" /></a>
+ 
 - 👋 Hi, I’m @itsmefranz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
