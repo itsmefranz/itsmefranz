@@ -5,16 +5,43 @@
 <p align="center"> I am currently taking up my second year of college in the Polytechnic University of the Philippines. I am very interested in acquiring knowledge about web development.
 </p>
 
-<!---
-- 👋 Hi, I’m @itsmefranz
-- 👀 I’m interested in ...
--🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-itsmefranz/itsmefranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <b>Languages and Tools :</b>
+<p align="left">
+<!-- vs code -->
+ <a 
+    href="https://code.visualstudio.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        alt="VS code" width="40" height="40"
+    /> 
+ </a> 
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="java" width="40" height="40"
+    /> 
+ </a> 
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="java" width="40" height="40"
+    /> 
+ </a> 
+  <a 
+    href="https://git-scm.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+        width="40" height="40"
+    /> 
+ </a> 
 
+## <b>Connect with me @ :</b>
 <div id="badges">
   <a href="https://www.linkedin.com/in/daniella-francine-velasquez-0215b5246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
